@@ -84,3 +84,377 @@ main > a {
 		margin: 0 8px;
 	}
 }
+div > a {
+	/* Quem somos */
+
+position: absolute;
+width: 1080px;
+height: 1063px;
+
+
+
+/* Background */
+
+position: absolute;
+width: 1080px;
+height: 1063px;
+
+background: #FFFFFF;
+
+
+/* Quem Somos? */
+
+position: absolute;
+width: 412px;
+height: 30px;
+
+font-family: Goldman;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #193094;
+
+
+
+/* 24 / basic / user */
+
+position: absolute;
+width: 172px;
+height: 172px;
+
+
+
+/* icon-sobre-nós */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 4.17%;
+bottom: 4.17%;
+
+background: #193094;
+
+
+/* Subtract */
+
+position: absolute;
+width: 157.67px;
+height: 157.67px;
+left: 7.17px;
+top: 7.17px;
+
+background: #DADADA;
+
+
+/* Union */
+
+position: absolute;
+width: 157.67px;
+height: 157.67px;
+left: 7.17px;
+top: 7.17px;
+
+background: #DADADA;
+
+
+/* Subtract */
+
+position: absolute;
+width: 157.67px;
+height: 157.67px;
+left: 7.17px;
+top: 7.17px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 4.17%;
+bottom: 4.17%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 25%;
+bottom: 37.5%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 41.67%;
+right: 41.67%;
+top: 33.33%;
+bottom: 45.83%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 16.77%;
+right: 16.77%;
+top: 62.5%;
+bottom: 16.67%;
+
+
+
+/* explore_24px */
+
+position: absolute;
+width: 172px;
+height: 172px;
+
+
+
+/* icon/action/explore_24px */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #193094;
+
+
+/* Path */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 27.08%;
+right: 27.08%;
+top: 27.08%;
+bottom: 27.08%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 45.42%;
+right: 45.42%;
+top: 45.42%;
+bottom: 45.42%;
+
+background: #DADADA;
+
+
+/* remove_red_eye_24px */
+
+position: absolute;
+width: 172px;
+height: 172px;
+
+
+
+/* icon/image/remove_red_eye_24px */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #193094;
+
+
+/* Path */
+
+position: absolute;
+left: 13.25%;
+right: 13.25%;
+top: 27.08%;
+bottom: 27.08%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 39.58%;
+right: 39.58%;
+top: 39.58%;
+bottom: 39.58%;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+left: 31.25%;
+right: 31.25%;
+top: 31.25%;
+bottom: 31.25%;
+
+background: #DADADA;
+
+
+/* Sobre nós */
+
+position: absolute;
+width: 130px;
+height: 44.71px;
+
+font-family: Goldman;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #193094;
+
+
+
+/* Sobre nós Texto */
+
+position: absolute;
+width: 682px;
+height: 318px;
+
+font-family: Goldman;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #343A40;
+
+
+
+/* Missão */
+
+position: absolute;
+width: 94px;
+height: 28px;
+
+font-family: Goldman;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #193094;
+
+
+
+/* Missão Texto */
+
+position: absolute;
+width: 675px;
+height: 62.59px;
+
+font-family: Goldman;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #343A40;
+
+
+
+/* Visão */
+
+position: absolute;
+width: 77px;
+height: 21px;
+
+font-family: Goldman;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #193094;
+
+/*Visão texto*/
+
+position: absolute;
+width: 660px;
+height: 71px;
+
+font-family: Goldman;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: justify;
+color: #343A40;
+}
