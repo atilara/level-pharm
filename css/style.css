@@ -69,6 +69,41 @@ main > a {
 	padding: 12px;
 	border-radius: 6px;
 }
+.quem-somos-item {
+	Display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	flex-flow: row nowrap;
+	justify-content: space-between;	
+	align-items: stretch;
+	align-content: flex-start;
+	flex-grow: 0;
+	flex-basis: 0px;
+	align-self: flex-start;
+}
+.missão{
+	Display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	flex-flow: row nowrap;
+	justify-content: space-between;	
+	align-items: stretch;
+	align-content: flex-start;
+	flex-grow: 0;
+	flex-basis: 0px;
+	align-self: flex-start;
+}
+.visão{Display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	flex-flow: row nowrap;
+	justify-content: space-between;	
+	align-items: stretch;
+	align-content: flex-start;
+	flex-grow: 0;
+	flex-basis: 0px;
+	align-self: flex-start;
+}
 
 @media only screen and (max-width: 700px) {
 	nav > a > img {
@@ -80,3 +115,16 @@ main > a {
 		margin: 0 8px;
 	}
 }
+
+
+		
+
+
+
+
+
+
+
+
+
+
