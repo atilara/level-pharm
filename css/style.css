@@ -82,11 +82,19 @@ main > a {
 	border-radius: 6px;
 }
 
+#quem-somos {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
 .quem-somos-item {
 	display: flex;
 	flex-direction: row;
 	align-items: center;
 	justify-content: space-between;
+	max-width: 80vw;
 }
 
 .quem-somos-item > .icon {
@@ -94,11 +102,16 @@ main > a {
 	align-items: center;
 	justify-content: space-between;
 	flex-direction: column;
-	margin: 0 8vw;
+	margin: 0 4vw;
+}
+
+.quem-somos-item > div > p {
+	margin-bottom: 1vh;
+	text-align: justify;
 }
 
 .quem-somos-item > p {
-	margin: 0 4vw;
+	text-align: justify;
 }
 
 #servicos > h2 {
@@ -108,6 +121,8 @@ main > a {
 #servicos-content {
 	display: flex;
 	flex-direction: row;
+	justify-content: center;
+	align-items: flex-start;
 }
 
 .servicos-content-item {
@@ -115,7 +130,12 @@ main > a {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	margin: 0 2vw;
+	margin: 0 1vw;
+	max-width: 18vw;
+}
+
+.servicos-content-item > h3 {
+	margin: 2vh 0;
 }
 
 .servicos-content-item > p {
@@ -283,6 +303,7 @@ footer > img {
 
 	.servicos-content-item {
 		margin-bottom: 4vh;
+		max-width: none;
 	}
 
 	#map-content {
