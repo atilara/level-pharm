@@ -204,7 +204,32 @@ label {
 }
 
 
+/*botão */
+.enviar-buttom{
+	justify-content: center;
+	color: white;
+	background-color: #193094;
+	font-size: 16px;
+	padding: 14px 40px;
+	border-radius: 12px;
+	width: 250px;
+	transition: 0.5s;
+	border-color: #193094;
+	align-items: center;
 
+}
+
+.enviar-buttom:hover {
+	background-color:white;
+	color: #193094;
+}
+
+.form-buttom {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 120px;;
+}
 
 
 
