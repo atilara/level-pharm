@@ -89,6 +89,10 @@ main > a {
 	align-items: center;
 }
 
+#quem-somos > h2 {
+	margin-bottom: 2vh;
+}
+
 .quem-somos-item {
 	display: flex;
 	flex-direction: row;
@@ -287,7 +291,11 @@ footer > img {
 	}
 
 	.quem-somos-item > div > p {
-		margin: 0 4vw 4vh 4vw;
+		margin: 0 4vw 2vh 4vw;
+	}
+
+	.quem-somos-item > p {
+		margin: 0 4vw;
 	}
 
 	.quem-somos-item > div > img {
