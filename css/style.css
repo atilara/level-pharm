@@ -120,6 +120,8 @@ main > a {
 /* precisa ser revisada pra ver se tem algum erro */
 
 /* serviços */
+#servicos: 500px;
+
 .servicos-content{
 	display:flex;
 	height: 500px;
@@ -127,6 +129,11 @@ main > a {
 	align-items:center;
 }
 
+
+.section-title2 {
+	margin-bottom: 20px;
+	color: #193094;
+}
 
 /*endereço */ 
 
@@ -178,7 +185,7 @@ label {
   input[type=text], textarea{
   width: 100%;
   padding: 12px;
-  border: 1px solid #ccc;
+  border: 2px solid #ccc;
   border-radius: 6px;
   border-color: #193094;
   box-sizing: border-box;
