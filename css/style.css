@@ -279,6 +279,7 @@ footer > img {
 		flex-wrap: wrap;
 		justify-content: center;
 		text-align: justify;
+		max-width: none;
 	}
 
 	.quem-somos-item > div > h2 {
