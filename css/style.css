@@ -180,7 +180,7 @@ label {
   padding: 12px;
   border: 1px solid #ccc;
   border-radius: 6px;
-  border-color: #190094;
+  border-color: #193094;
   box-sizing: border-box;
   resize: vertical;
 }
@@ -195,7 +195,7 @@ label {
 	flex-direction: column;
 	height: 200px;
 	justify-content: center;
-	background-color: #190094;
+	background-color: #193094;
 	text-align:center;
 }
 
